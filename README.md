@@ -1,5 +1,5 @@
-# 💠 Status: In development
-The status is in develompent cuz i haven't solved some bugs you can find below
+# 💢 Status: Abandoned
+ModelMatrix in game is totally changed. Cheat is not working!
 
 ![изображение](https://github.com/user-attachments/assets/38dfc4f1-20e8-4a40-a26a-ac8d296e028e)
 
